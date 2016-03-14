@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.urgent{
+    color:red;
+}
+.boring{
+    font-style: oblique;
+}
+.done{
+    text-decoration: line-through;
+    color: yellow;
+}
